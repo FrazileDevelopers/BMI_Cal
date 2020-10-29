@@ -18,7 +18,7 @@ class BmiAppBar extends StatelessWidget {
         height: appBarHeight(context),
         color: Colors.white,
         child: Padding(
-          padding: EdgeInsets.all(screenAwareSize(16.0, context)),
+          padding: EdgeInsets.all(screenAwareSize(16.2, context)),
           child: Row(
             crossAxisAlignment: CrossAxisAlignment.end,
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
